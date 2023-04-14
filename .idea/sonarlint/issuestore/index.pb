@@ -3,10 +3,6 @@
 .src/codeexecutor/javascript/codefiles/error.js,e/6/e68ab1d4dcdbb7423f2051d9e2adad6639e50716
 P
  src/codeexecutor/java/Dockerfile,c/d/cd3255d3eecdbbc5e23a3e65d6ebff58ca8a2616
-V
-&src/codeexecutor/javascript/Dockerfile,5/c/5cc3e1b56c78c46ed1e8349a35efec2473bb0066
-V
-&src/codeexecutor/javascript/execute.sh,3/3/33c08a641ae82f483fa2726db2847641cf802d2c
 :
 
 src/docker,7/e/7e2ab51989994b7ed106fb002d2ad9545590d111
@@ -24,5 +20,3 @@ Y
 -src/codeexecutor/javascript/codefiles/test.js,d/2/d2668aab1ce66542c9d26a7f52050acbc6fb77f2
 =
 src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
-]
--src/codeexecutor/JavaCodeExecutionEngine.java,4/8/4823220321d9cfc6eb64b78ebf5aa822de88384e
